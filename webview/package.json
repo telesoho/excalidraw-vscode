@@ -1,11 +1,11 @@
 {
   "name": "excalidraw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@excalidraw/excalidraw": "0.12.0-32d8221",
+    "@telesoho/excalidraw": "^0.12.4",
     "js-base64": "^3.7.2",
     "lodash-es": "^4.17.21",
     "react": "^17.0.2",

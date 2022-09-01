@@ -4,7 +4,7 @@ import {
   loadLibraryFromBlob,
   serializeLibraryAsJSON,
   THEME,
-} from "@excalidraw/excalidraw";
+} from "@telesoho/excalidraw";
 
 import "./styles.css";
 import {
@@ -13,9 +13,9 @@ import {
   ExcalidrawImperativeAPI,
   ExcalidrawInitialDataState,
   LibraryItems,
-} from "@excalidraw/excalidraw/types/types";
+} from "@telesoho/excalidraw/types/types";
 import { vscode } from "./vscode";
-import { ExcalidrawElement } from "@excalidraw/excalidraw/types/element/types";
+import { ExcalidrawElement } from "@telesoho/excalidraw/types/element/types";
 
 function detectTheme() {
   switch (document.body.className) {

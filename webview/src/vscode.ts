@@ -2,9 +2,9 @@ import {
   serializeAsJSON,
   exportToSvg,
   exportToBlob,
-} from "@excalidraw/excalidraw";
-import { ExcalidrawElement } from "@excalidraw/excalidraw/types/element/types";
-import { AppState, BinaryFiles } from "@excalidraw/excalidraw/types/types";
+} from "@telesoho/excalidraw";
+import { ExcalidrawElement } from "@telesoho/excalidraw/types/element/types";
+import { AppState, BinaryFiles } from "@telesoho/excalidraw/types/types";
 
 declare global {
   interface Window {

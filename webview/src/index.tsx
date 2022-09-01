@@ -2,7 +2,7 @@ import {
   getSceneVersion,
   loadFromBlob,
   loadLibraryFromBlob,
-} from "@excalidraw/excalidraw";
+} from "@telesoho/excalidraw";
 import React from "react";
 import ReactDOM from "react-dom";
 import { Base64 } from "js-base64";
@@ -13,8 +13,8 @@ import {
   AppState,
   BinaryFiles,
   ExcalidrawInitialDataState,
-} from "@excalidraw/excalidraw/types/types";
-import { ExcalidrawElement } from "@excalidraw/excalidraw/types/element/types";
+} from "@telesoho/excalidraw/types/types";
+import { ExcalidrawElement } from "@telesoho/excalidraw/types/element/types";
 import _ from "lodash-es";
 
 const mimeTypeFallbacks = {

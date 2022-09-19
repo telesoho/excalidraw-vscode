@@ -1,17 +1,15 @@
 # Excalidraw
 
-由于官方版本并不支持中文和日语手写体，所以基于官网的版本开发了一个支持中文和日文的手写字体的版本。
-
-![](images/README.md_assets_20220906133657.png)
-
-可以[在线测试](https://excalidraw-git-fork-telesoho-addchinesejapanesefont-excalidraw.vercel.app/)
-
-注意：目前中文和日语仅支持`excalidraw.png`格式。
-
 This extension integrates Excalidraw into VS Code.
 To use it, create an empty file with a `.excalidraw`, `.excalidraw.json`, `.excalidraw.svg` or `excalidraw.png` extension and open it in Visual Studio Code.
 
-Try the web version at : <https://excalidraw.com/>
+由于官方版本并不支持中文和日语手写体，所以基于官网的版本开发了一个支持中文和日文的手写字体的版本。
+
+![](https://raw.githubusercontent.com/telesoho/excalidraw-vscode/master/extension/images/README.md_assets_20220906133657.png)
+
+注意：目前中文和日语仅支持`.excalidraw.png`扩展名。
+
+Try the web version at : [demo](https://excalidraw-git-fork-telesoho-addchinesejapanesefont-excalidraw.vercel.app/)
 
 ![demo](https://raw.githubusercontent.com/excalidraw/excalidraw-vscode/master/extension/medias/screenshot.png)
 

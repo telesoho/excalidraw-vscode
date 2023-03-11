@@ -77,9 +77,9 @@ export default function App(props: {
   };
   dirty: boolean;
   onChange: (
-    elements: readonly ExcalidrawElement[],
-    appState: Partial<AppState>,
-    files: BinaryFiles
+    elements: readonly ExcalidrawElement[] | null | undefined,
+    appState: Partial<AppState> | null | undefined,
+    files: BinaryFiles | null | undefined
   ) => void;
 }) {
   const excalidrawRef = useRef<ExcalidrawImperativeAPI>(null);

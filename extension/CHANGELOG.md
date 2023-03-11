@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.4.0
+
+- Update excalidraw package to 0.14.1
+
+## 3.3.3
+
+- Upgrade Dependencies
+
 ## 3.3.1
 
 ### Fixed

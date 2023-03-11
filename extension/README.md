@@ -5,7 +5,7 @@ To use it, create an empty file with a `.excalidraw`, `.excalidraw.json`, `.exca
 
 由于官方版本并不支持中文和日语手写体，所以基于官网的版本开发了一个支持中文和日文的手写字体的版本。
 
-![](https://raw.githubusercontent.com/telesoho/excalidraw-vscode/master/extension/images/README.md_assets_20220906133657.png)
+![](https://raw.githubusercontent.com/telesoho/excalidraw-vscode/master/extension/images/demo.telesoho.png)
 
 注意：目前中文和日语仅支持`.excalidraw.png`扩展名。
 
@@ -25,10 +25,6 @@ Try the web version at : [demo](https://excalidraw-git-fork-telesoho-addchinesej
     - [Configure Language](#configure-language)
   - [Contact](#contact)
   - [Note for Contributors](#note-for-contributors)
-    [Associate Additional Extensions with the Excalidraw Editor](#associate-additional-extensions-with-the-excalidraw-editor)
-  - [Sharing your Library](#sharing-your-library)
-- [Contact](#contact)
-- [Note for Contributors](#note-for-contributors)
 
 ## Features
 

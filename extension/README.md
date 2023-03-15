@@ -7,7 +7,7 @@ To use it, create an empty file with a `.excalidraw`, `.excalidraw.json`, `.exca
 
 [在线体验（支持中日文手写体）](https://draw.telesoho.com/)
 
-![](https://raw.githubusercontent.com/telesoho/excalidraw-vscode/master/extension/images/demo.telesoho.png)
+![demo.telesoho.png](./images/demo.telesoho.png)
 
 注意：目前中文和日语手写体仅在`.excalidraw.png`扩展名的时候有效。
 

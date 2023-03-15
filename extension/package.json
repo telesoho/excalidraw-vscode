@@ -3,7 +3,7 @@
     "icon": "assets/images/logo.png",
     "displayName": "Excalidraw-cj",
     "description": "Draw schemas in VS Code using Excalidraw",
-    "version": "3.4.3",
+    "version": "3.4.4",
     "publisher": "telesoho",
     "engines": {
         "vscode": "^1.63.0"
@@ -24,7 +24,7 @@
         "url": "https://github.com/telesoho"
     },
     "activationEvents": [
-        "workspaceContains:**/*.{excalidraw,excalidraw.svg,excalidraw.png}"
+        "workspaceContains:**/*.{excalidraw,excalidraw.svg,excalidraw.png,telesoho.png}"
     ],
     "repository": {
         "type": "git",
@@ -318,7 +318,10 @@
                     },
                     {
                         "filenamePattern": "*.excalidraw.png"
-                    }
+                    },
+                    {
+                        "filenamePattern": "*.telesoho.png"
+                    }                    
                 ]
             }
         ],

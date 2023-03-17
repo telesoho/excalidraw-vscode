@@ -3,7 +3,7 @@
     "icon": "assets/images/logo.png",
     "displayName": "Excalidraw-cj",
     "description": "Draw schemas in VS Code using Excalidraw",
-    "version": "3.4.5",
+    "version": "3.4.6",
     "publisher": "telesoho",
     "engines": {
         "vscode": "^1.63.0"

@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@telesoho/excalidraw": "^0.14.2-0d33413",
+    "@telesoho/excalidraw": "^0.14.2-5333278",
     "js-base64": "^3.7.2",
     "lodash-es": "^4.17.21",
     "react": "^17.0.2",

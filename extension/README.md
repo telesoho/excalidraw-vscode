@@ -1,15 +1,15 @@
 # Excalidraw
 
-This extension integrates Excalidraw into VS Code.
-To use it, create an empty file with a `.excalidraw`, `.excalidraw.json`, `.excalidraw.svg` or `excalidraw.png` extension and open it in Visual Studio Code.
-
 由于官方版本并不支持中文和日语手写体，所以基于官网的版本开发了一个支持中文和日文的手写字体的版本。
 
 [在线体验（支持中日文手写体）](https://draw.telesoho.com/)
 
-![demo.telesoho.png](./images/demo.telesoho.png)
+![demo.telesoho.png](images/demo.telesoho.png)
 
 注意：目前中文和日语手写体仅在`.excalidraw.png`扩展名的时候有效。
+
+This extension integrates Excalidraw into VS Code.
+To use it, create an empty file with a `.excalidraw`, `.excalidraw.json`, `.excalidraw.svg` or `.excalidraw.png` extension and open it in Visual Studio Code.
 
 ![demo](https://raw.githubusercontent.com/excalidraw/excalidraw-vscode/master/extension/medias/screenshot.png)
 
